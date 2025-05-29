@@ -13,7 +13,6 @@ class Solution():
         
 
 
-
 if __name__== '__main__':
     solution = Solution()
     solution.valid_palindrome("A man, A plan, a Canal: panama")
